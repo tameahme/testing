@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7809-3C90
+
+ Directory of C:\Users\LENOVO\Desktop\git
+
+03/29/2018  05:08 PM    <DIR>          .
+03/29/2018  05:08 PM    <DIR>          ..
+03/29/2018  05:08 PM                 0 file1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  60,401,090,560 bytes free
